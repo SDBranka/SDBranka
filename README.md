@@ -16,8 +16,6 @@
 <!-- [<img align="left" alt="#" width="22px" src="#" />][website] -->
 [<img align="left" alt="SDBranka | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
-
 ### Languages and Tools:
 
 HTML5, CSS3, JavaScript, jQuery, Python, Ruby, C++ and Django
@@ -45,6 +43,7 @@ HTML5, CSS3, JavaScript, jQuery, Python, Ruby, C++ and Django
   <img align="left" alt="SDBranka's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SDBranka&show_icons=true&theme=tokyonight&hide_border=true" />
 </details>
 
+<br />
 <details>
   <summary>:zap: Top Languages</summary>
   <img align="left" alt="SDBranka's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDBranka&layout=compact&theme=tokyonight&hide_border=true" />

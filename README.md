@@ -45,7 +45,10 @@ HTML5, CSS3, JavaScript, jQuery, Python, Ruby, C++ and Django
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="SDBranka's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SDBranka&show_icons=true&hide_border=true" />
+  <img align="left" alt="SDBranka's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SDBranka&show_icons=true&hide_border=true" />
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 </details>
 

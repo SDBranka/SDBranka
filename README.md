@@ -8,7 +8,7 @@
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning Microsoft Azure AI 🤣
 - 👯 I’m looking to find new employment and to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play music and build things
 
 ### Connect with me:
@@ -20,10 +20,8 @@
 
 ### Languages and Tools:
 
-HTML5, CSS3, JavaScript, jQuery, Python, and Django
+HTML5, CSS3, JavaScript, jQuery, Python, Ruby, C++ and Django
 
-
-<br />
 <br />
 
 ---
@@ -47,7 +45,7 @@ HTML5, CSS3, JavaScript, jQuery, Python, and Django
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="SDBranka's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
 

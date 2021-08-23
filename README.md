@@ -5,7 +5,6 @@
 
 ## I am a Developer and Biomedical Engineer
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning Microsoft Azure AI 🤣
 - 👯 I’m looking to find new employment and to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects

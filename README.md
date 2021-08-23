@@ -25,11 +25,10 @@ HTML5, CSS3, JavaScript, jQuery, Python, Ruby, C++ and Django
 <br />
 
 ---
----
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
+
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#53](https://github.com/mei-manzo/Group-Project/pull/53) in [mei-manzo/Group-Project](https://github.com/mei-manzo/Group-Project)
 2. 💪 Opened PR [#52](https://github.com/mei-manzo/Group-Project/pull/52) in [mei-manzo/Group-Project](https://github.com/mei-manzo/Group-Project)
@@ -40,10 +39,12 @@ HTML5, CSS3, JavaScript, jQuery, Python, Ruby, C++ and Django
 
 </details>
 
+
 <details>
   <summary>:zap: Top Languages</summary>
   <img align="left" alt="SDBranka's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDBranka&theme=tokyonight&hide_border=true" />
 </details>
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>

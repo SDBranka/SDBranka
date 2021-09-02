@@ -36,7 +36,10 @@
 
 <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sdbranka&" alt="sdbranka" /></p>
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats) -->
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sdbranka&theme=tokyonight" alt="sdbranka" /></p>
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>

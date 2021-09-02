@@ -24,9 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SDBranka&theme=tokyonight&hide_border=true" alt="sdbranka" /></p>
 
-<br/>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=SDBranka&show_icons=true&theme=tokyonight&hide_border=true"" alt="sdbranka" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SDBranka&show_icons=true&theme=tokyonight&hide_border=true"" alt="sdbranka" /></p>
 
 <br/>
 

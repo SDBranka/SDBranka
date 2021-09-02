@@ -34,12 +34,12 @@
   <img align="left" alt="SDBranka's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SDBranka&show_icons=true&theme=tokyonight&hide_border=true" />
 </details> -->
 
-<br/>
+<!-- <br/> -->
 
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats) -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sdbranka&theme=tokyonight" alt="sdbranka" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sdbranka&theme=tokyonight&hide_border=true" alt="sdbranka" /></p>
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>

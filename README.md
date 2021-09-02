@@ -1,14 +1,3 @@
-### Hello and thank you for stopping in, my name is Sam Branka.👋
-
-<!-- [![Website]({enter website icon img location}](https://website.com) -->
-<!-- [![LinkedIn](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=) -->
-
-## I am a Developer and Biomedical Engineer
-
-- 🌱 I’m currently learning Microsoft Azure AI 🤣
-- 👯 I’m looking to find new employment and to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play music and build things
 
 ### Connect with me:
 
@@ -50,8 +39,15 @@ HTML5, CSS3, JavaScript, jQuery, Python, Ruby, C++ and Django
 
 [linkedin]: https://linkedin.com/in/SDBranka
 
-<h1 align="center">Hi 👋, I'm Sam Branka</h1>
+<h1 align="center">Hello and thank you for stopping in, my name is Sam Branka.👋</h1>
 <h3 align="center">A Fullstack Developer and Biomedical Engineer from Michigan</h3>
+
+- 🌱 I’m currently learning Microsoft Azure AI 🤣
+- 👯 I’m looking to find new employment and to collaborate with other content creators
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play music and build things
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdbranka&label=Profile%20views&color=0e75b6&style=flat" alt="sdbranka" /> </p>
 

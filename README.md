@@ -26,7 +26,7 @@
 
 <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SDBranka&show_icons=true&theme=tokyonight&hide_border=true"" alt="sdbranka" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=SDBranka&show_icons=true&theme=tokyonight&hide_border=true"" alt="sdbranka" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sdbranka&theme=tokyonight&hide_border=true" alt="sdbranka" /></p>
 

@@ -28,8 +28,8 @@
   <summary>:zap: Top Languages</summary>
   <img align="left" alt="SDBranka's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDBranka&theme=tokyonight&hide_border=true" />
 </details> -->
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sdbranka&show_icons=true&locale=en" alt="sdbranka" /></p>
+<br/>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sdbranka&show_icons=true&locale=en" alt="sdbranka" /></p>
 
 
 <details>

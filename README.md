@@ -26,13 +26,13 @@
 
 <img align="left" alt="SDBranka's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=SDBranka&theme=tokyonight&hide_border=true" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sdbranka&show_icons=true&locale=en" alt="sdbranka" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SDBranka&show_icons=true&theme=tokyonight&hide_border=true"" alt="sdbranka" /></p>
 
 
-<details>
+<!-- <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="SDBranka's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SDBranka&show_icons=true&theme=tokyonight&hide_border=true" />
-</details>
+</details> -->
 
 
 

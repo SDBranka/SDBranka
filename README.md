@@ -37,16 +37,16 @@ HTML5, CSS3, JavaScript, jQuery, Python, Ruby, C++ and Django
 <!--END_SECTION:activity-->
 
 </details>
-
+<!-- https://github-readme-stats-sdbranka.vercel.app/ -->
 
 <details>
   <summary>:zap: Top Languages</summary>
-  <img align="left" alt="SDBranka's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDBranka&theme=tokyonight&hide_border=true" />
+  <img align="left" alt="SDBranka's GitHub Stats" src="https://github-readme-stats-sdbranka.vercel.app//api/top-langs/?username=SDBranka&theme=tokyonight&hide_border=true" />
 </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="SDBranka's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SDBranka&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img align="left" alt="SDBranka's GitHub Stats" src="https://github-readme-stats-sdbranka.vercel.app//api?username=SDBranka&show_icons=true&theme=tokyonight&hide_border=true" />
 </details>
 
 

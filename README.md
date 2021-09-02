@@ -5,7 +5,8 @@
 
 ## I am a Developer and Biomedical Engineer
 
-- 🌱 I’m currently learning Microsoft Azure AI :raising_hand_man:
+- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🌱 I’m currently learning Microsoft Azure AI 🤣
 - 👯 I’m looking to find new employment and to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play music and build things
@@ -24,10 +25,11 @@ HTML5, CSS3, JavaScript, jQuery, Python, Ruby, C++ and Django
 <br />
 
 ---
+---
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-
+  
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#53](https://github.com/mei-manzo/Group-Project/pull/53) in [mei-manzo/Group-Project](https://github.com/mei-manzo/Group-Project)
 2. 💪 Opened PR [#52](https://github.com/mei-manzo/Group-Project/pull/52) in [mei-manzo/Group-Project](https://github.com/mei-manzo/Group-Project)
@@ -37,17 +39,15 @@ HTML5, CSS3, JavaScript, jQuery, Python, Ruby, C++ and Django
 <!--END_SECTION:activity-->
 
 </details>
-<!-- https://github-readme-stats-sdbranka.vercel.app/ -->
-
-<details>
-  <summary>:zap: Top Languages</summary>
-  <img align="left" alt="SDBranka's GitHub Stats" src="https://github-readme-stats-sdbranka.vercel.app//api/top-langs/?username=SDBranka&theme=tokyonight&hide_border=true" />
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="SDBranka's GitHub Stats" src="https://github-readme-stats-sdbranka.vercel.app//api?username=SDBranka&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img align="left" alt="SDBranka's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SDBranka&show_icons=true&theme=tokyonight&hide_border=true" />
 </details>
 
+<details>
+  <summary>:zap: Top Languages</summary>
+  <img align="left" alt="SDBranka's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDBranka&theme=tokyonight&hide_border=true" />
+</details>
 
 [linkedin]: https://linkedin.com/in/SDBranka

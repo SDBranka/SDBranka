@@ -24,9 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sdbranka&show_icons=true&locale=en&layout=compact" alt="sdbranka" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sdbranka&show_icons=true&locale=en" alt="sdbranka" /></p>
-
-
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="SDBranka's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SDBranka&show_icons=true&theme=tokyonight&hide_border=true" />

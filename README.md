@@ -31,6 +31,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#53](https://github.com/mei-manzo/Group-Project/pull/53) in [mei-manzo/Group-Project](https://github.com/mei-manzo/Group-Project)
+2. 💪 Opened PR [#52](https://github.com/mei-manzo/Group-Project/pull/52) in [mei-manzo/Group-Project](https://github.com/mei-manzo/Group-Project)
+3. 💪 Opened PR [#51](https://github.com/mei-manzo/Group-Project/pull/51) in [mei-manzo/Group-Project](https://github.com/mei-manzo/Group-Project)
+4. 💪 Opened PR [#50](https://github.com/mei-manzo/Group-Project/pull/50) in [mei-manzo/Group-Project](https://github.com/mei-manzo/Group-Project)
+5. 💪 Opened PR [#48](https://github.com/mei-manzo/Group-Project/pull/48) in [mei-manzo/Group-Project](https://github.com/mei-manzo/Group-Project)
 <!--END_SECTION:activity-->
 </details>
 

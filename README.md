@@ -8,8 +8,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play music and build things
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sdbranka&label=Profile%20views&color=0e75b6&style=flat" alt="sdbranka" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sdbranka" alt="sdbranka" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -40,4 +38,4 @@
 <!--END_SECTION:activity-->
 </details>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sdbranka&label=Profile%20views&color=0e75b6&style=flat" alt="sdbranka" /> </p>

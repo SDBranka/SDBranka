@@ -27,14 +27,14 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sdbranka&theme=tokyonight&hide_border=true" alt="sdbranka" /></p>
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#53](https://github.com/mei-manzo/Group-Project/pull/53) in [mei-manzo/Group-Project](https://github.com/mei-manzo/Group-Project)
-2. 💪 Opened PR [#52](https://github.com/mei-manzo/Group-Project/pull/52) in [mei-manzo/Group-Project](https://github.com/mei-manzo/Group-Project)
-3. 💪 Opened PR [#51](https://github.com/mei-manzo/Group-Project/pull/51) in [mei-manzo/Group-Project](https://github.com/mei-manzo/Group-Project)
-4. 💪 Opened PR [#50](https://github.com/mei-manzo/Group-Project/pull/50) in [mei-manzo/Group-Project](https://github.com/mei-manzo/Group-Project)
-5. 💪 Opened PR [#48](https://github.com/mei-manzo/Group-Project/pull/48) in [mei-manzo/Group-Project](https://github.com/mei-manzo/Group-Project)
+1. 🎉 Merged PR [#10](https://github.com/jamesgeorge007/cli-prompts-test/pull/10) in [jamesgeorge007/cli-prompts-test](https://github.com/jamesgeorge007/cli-prompts-test)
+2. 🎉 Merged PR [#38](https://github.com/jamesgeorge007/scaffold-static/pull/38) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
+3. 🎉 Merged PR [#23](https://github.com/jamesgeorge007/csstox/pull/23) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
+4. 💪 Opened PR [#2859](https://github.com/webpack/webpack-cli/pull/2859) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+5. 🗣 Commented on [#2832](https://github.com/webpack/webpack-cli/issues/2832) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
 <!--END_SECTION:activity-->
 </details>
 

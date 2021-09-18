@@ -29,6 +29,7 @@
 <details>
  <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 </details>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdbranka&label=Profile%20views&color=0e75b6&style=flat" alt="sdbranka" /> </p>

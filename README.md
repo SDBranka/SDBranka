@@ -37,12 +37,12 @@
 <!-- frameworks/Databases -->
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 
 <!-- involved tech -->
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 <!-- tools -->
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="visual studio" width="40" height="40"/> </a>
 
@@ -50,6 +50,10 @@
 
 <!-- visual asset creation -->
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+
+<a href="https://krita.org/en/" target="_blank" rel="noreferrer"> <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/12e17815-80d0-46f1-94d3-b80967f5ed69/ddegbk6-92e3dc56-474f-477c-a36d-9f457c70ae2d.png/v1/fill/w_895,h_893,strp/krita_icon_2019_by_diggershrew_ddegbk6-pre.png" alt="krita" width="40" height="40"/> </a>
+
+
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a> 
 </p>
 

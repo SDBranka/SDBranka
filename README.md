@@ -2,7 +2,7 @@
 <h3 align="center">A Fullstack Developer and Biomedical Engineer from Michigan</h3>
 
 - 🔭 I’m currently working on **group and individual projects to strength and learn new skills**
-- 🌱 I’m currently learning **NumPy and Microsoft Azure AI**
+- 🌱 I’m currently learning **AI and Blockchain technologies**
 - 👯 I’m looking to **find new employment and to collaborate with other developers**
 - 👯 I’m looking to collaborate **with developers of all skill levels and disciplines**
 - 🥅 2021 Goals: Contribute more to Open Source projects

@@ -11,7 +11,7 @@
 
 <br/>
 <!-- trophy display -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sdbranka" alt="sdbranka" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sdbranka" alt="sdbranka" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -49,12 +49,7 @@
 
 
 <!-- visual asset creation -->
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-
-<a href="https://krita.org/en/" target="_blank" rel="noreferrer"> <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/12e17815-80d0-46f1-94d3-b80967f5ed69/ddegbk6-92e3dc56-474f-477c-a36d-9f457c70ae2d.png/v1/fill/w_895,h_893,strp/krita_icon_2019_by_diggershrew_ddegbk6-pre.png" alt="krita" width="40" height="40"/> </a>
-
-
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a> 
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>  <a href="https://krita.org/en/" target="_blank" rel="noreferrer"> <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/12e17815-80d0-46f1-94d3-b80967f5ed69/ddegbk6-92e3dc56-474f-477c-a36d-9f457c70ae2d.png/v1/fill/w_895,h_893,strp/krita_icon_2019_by_diggershrew_ddegbk6-pre.png" alt="krita" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a> 
 </p>
 
 

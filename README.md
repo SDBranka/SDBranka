@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **AI and Blockchain technologies**
 - 👯 I’m looking to **find new employment and to collaborate with other developers**
 - 👯 I’m looking to collaborate **with developers of all skill levels and disciplines**
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play music and build things
 
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hello and thank you for stopping in, my name is Sam Branka.👋</h1>
-<h3 align="center">A Fullstack Developer and Biomedical Engineer from Michigan</h3>
+<h3 align="center">A Full Stack Developer and Biomedical Engineer from Michigan</h3>
 
 - 🔭 I’m currently working on **group and individual projects to strengthen and learn new skills**
 - 🌱 I’m currently learning **AI and Blockchain technologies**

@@ -64,8 +64,9 @@
 <!-- </details> --> 
 
 <h3 align="left">Support me:</h3>
-<a href="https://brave.com/about/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
-<p>I am pleased to say that I have joined the Brave Creators program. Brave users are welcome to help support me with BAT tips. Thank you in advance.</p>
+<a href="https://brave.com/about/" target="_blank" rel="noreferrer"> <img src="https://github.com/SDBranka/SDBranka/blob/master/img/brave_logo.png" alt="mysql" width="40" height="40"/></a> 
+<p>I am pleased to say that I have joined the Brave Creators program. Brave users are welcome to help support me and my work with donation via BAT tips. Thank you in advance.</p>
+<br/>
 
 <!-- visitor count -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdbranka&label=Profile%20views&color=0e75b6&style=flat" alt="sdbranka" /> </p>

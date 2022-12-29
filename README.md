@@ -104,4 +104,28 @@
 <!-- visitor count -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdbranka&label=Profile%20views&color=0e75b6&style=flat" alt="sdbranka" /> </p>
 
+<ol>
+<li>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdbranka)](https://github.com/anuraghazra/github-readme-stats)
+</li>
+<!-- includes private -->
+<li>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+</li>
+<!-- show icons -->
+<li>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)</li>
+<!-- change theme -->
+<li>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)</li>
+<!-- <li></li> -->
+<!-- <li></li> -->
+/
+/
+<li><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a></li>
+</ul>
+
+
+

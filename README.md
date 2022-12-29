@@ -37,6 +37,8 @@
 <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"><img src="https://github.com/SDBranka/SDBranka/blob/master/img/markdown.png" alt="markdown" width="40" height="40"/></a>
 <!-- JavaScript -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<!-- jQuery -->
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
 <!-- C++ -->
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
 <!-- Python -->
@@ -99,6 +101,7 @@
 <h3 align="left">Support me:</h3>
 <a href="https://brave.com/about/" target="_blank" rel="noreferrer"> <img src="https://github.com/SDBranka/SDBranka/blob/master/img/brave_logo.png" alt="mysql" width="90" height="40"/></a> 
 <p>I am pleased to say that I have joined the Brave Creators program. Brave users are welcome to help support me and my work with donation via BAT tips. Thank you in advance.</p>
+<a href="https://www.buymeacoffee.com/sdbranka"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 <br/>
 <br/>
 

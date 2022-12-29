@@ -85,7 +85,9 @@
 <!-- stats -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SDBranka&theme=tokyonight&hide_border=true" alt="sdbranka" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SDBranka&show_icons=true&theme=tokyonight&hide_border=true"" alt="sdbranka" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SDBranka&show_icons=true&theme=tokyonight&hide_border=true"" alt="sdbranka" /></p> -->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sdbranka&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sdbranka&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
@@ -102,22 +104,9 @@
 <br/>
 
 <!-- visitor count -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sdbranka&label=Profile%20views&color=0e75b6&style=flat" alt="sdbranka" /> </p>
-
-<ol>
-<li>
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdbranka)](https://github.com/anuraghazra/github-readme-stats) -->
-</li>
-<!-- includes private -->
-<!-- <li>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true) -->
-<!-- </li> -->
-<!-- show icons -->
-<!-- <li>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)</li> -->
-<!-- change theme -->
-<!-- <li>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)</li> -->
-</ol>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sdbranka&label=Profile%20views&color=0e75b6&style=flat" alt="sdbranka" /> </p>
 
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdbranka&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+

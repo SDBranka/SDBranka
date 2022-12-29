@@ -85,9 +85,7 @@
 <!-- stats -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SDBranka&theme=tokyonight&hide_border=true" alt="sdbranka" /></p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SDBranka&show_icons=true&theme=tokyonight&hide_border=true"" alt="sdbranka" /></p> -->
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sdbranka&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sdbranka&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sdbranka&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 

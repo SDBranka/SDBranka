@@ -99,7 +99,7 @@
 <!-- </details> --> 
 
 <h3 align="left">Support me:</h3>
-<a href="https://www.buymeacoffee.com/sdbranka"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/sdbranka"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="100" /></a>
 <br/>
 <br/>
 <a href="https://brave.com/about/" target="_blank" rel="noreferrer"> <img src="https://github.com/SDBranka/SDBranka/blob/master/img/brave_logo.png" alt="mysql" width="90" height="40"/></a> 

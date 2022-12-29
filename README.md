@@ -104,3 +104,4 @@
 <!-- visitor count -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdbranka&label=Profile%20views&color=0e75b6&style=flat" alt="sdbranka" /> </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sdbranka&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)

@@ -83,7 +83,9 @@
 <br/>
 
 <!-- stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SDBranka&theme=tokyonight&hide_border=true" alt="sdbranka" /></p>
+<!-- Top Languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdbranka&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SDBranka&theme=tokyonight&hide_border=true" alt="sdbranka" /></p> -->
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sdbranka&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 

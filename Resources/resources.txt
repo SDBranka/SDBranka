@@ -1,3 +1,5 @@
 GitHub Streak
 https://github-readme-streak-stats.herokuapp.com/demo/
 
+GitHub Top Langs and Stats
+https://github.com/anuraghazra/github-readme-stats

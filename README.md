@@ -8,12 +8,12 @@
 - 👯 I’m looking to collaborate **with developers of all skill levels and disciplines**
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play music and build things
-
-
 <br/>
-<!-- trophy display -->
+
+<!-- Trophy Display -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sdbranka" alt="sdbranka" /></a> </p>
 
+<!-- Connect With Me -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sdbranka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linked In" height="30" width="40" /></a>
@@ -23,9 +23,10 @@
 </p>
 <br/>
 
+<!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
- <!-- languages -->
+ <!-- Languages -->
 <h5 align="left">Languages:</h5>
 <!-- HTML5 -->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
@@ -48,7 +49,7 @@
 <!-- Solidity -->
 <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="https://soliditylang.org/images/logo.svg" alt="ruby" width="40" height="40"/></a>   
 
-<!-- frameworks/Databases -->
+<!-- Frameworks/Databases -->
 <h5 align="left">Frameworks/Databases:</h5>
 <!-- Django -->
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/></a>
@@ -98,9 +99,12 @@
 <!--END_SECTION:activity-->
 <!-- </details> --> 
 
+<!-- Support Me -->
 <h3 align="left">Support me:</h3>
+<!-- Brave -->
 <a href="https://brave.com/about/" target="_blank" rel="noreferrer"> <img src="https://github.com/SDBranka/SDBranka/blob/master/img/brave_logo.png" alt="mysql" width="90" height="40"/></a> 
 <p>I am pleased to say that I have joined the Brave Creators program. Brave users are welcome to help support me and my work with donation via BAT tips.</p>
+<!-- BuyMeACoffee -->
 <a href="https://www.buymeacoffee.com/sdbranka"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="100" /></a>
 <p>I am also able to accept donation through <a href="https://www.buymeacoffee.com/sdbranka"> buymeacoffee.com</a>.<br/>Thank you in advance.</p>
 <br/>

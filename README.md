@@ -102,7 +102,7 @@
 <a href="https://brave.com/about/" target="_blank" rel="noreferrer"> <img src="https://github.com/SDBranka/SDBranka/blob/master/img/brave_logo.png" alt="mysql" width="90" height="40"/></a> 
 <p>I am pleased to say that I have joined the Brave Creators program. Brave users are welcome to help support me and my work with donation via BAT tips.</p>
 <a href="https://www.buymeacoffee.com/sdbranka"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="100" /></a>
-<p>I am also able to accept donation through buymeacoffe.com. <br/>Thank you in advance.</p>
+<p>I am also able to accept donation through [buymeacoffee.com]("https://www.buymeacoffee.com/sdbranka"). <br/>Thank you in advance.</p>
 <br/>
 <br/>
 

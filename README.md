@@ -104,3 +104,4 @@
 <!-- visitor count -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdbranka&label=Profile%20views&color=0e75b6&style=flat" alt="sdbranka" /> </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdbranka)](https://github.com/anuraghazra/github-readme-stats)

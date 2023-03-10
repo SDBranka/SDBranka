@@ -3,7 +3,6 @@
 
 <!-- - 🔭 I’m currently working on **group and individual projects to strengthen and learn new skills** -->
 - 🔭 I’m currently working on **updating my GitHub with former projects**
-<!-- - 🌱 I’m currently learning **AI and Blockchain technologies** -->
 - 🌱 I’m currently learning **Machine Learning**
 - 👯 I’m looking to collaborate **with developers of all skill levels and disciplines**
 - 🥅 2023 Goals: Contribute more to Open Source projects
